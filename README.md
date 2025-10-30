@@ -336,6 +336,17 @@ We welcome community contributions:
 - 🎨 Template System for niches
 - 🔄 Batch File Processing
 
+## 📬 Contacts
+
+This product is free, and therefore I would like to ask you to at least look at one of
+the suggested links and stay if you are interested:
+
+| Platform | Link |
+|:-----------|:--------:|
+| Behance | [constantchoice](https://www.behance.net/GrinchFour) |
+| Instagram | [constantchoice](https://www.instagram.com/constantchoice) |
+| Put ⭐ | [DUBSTEP TAG RANDOMIZER](https://github.com/GrinchFour/DUBSTEP-TAG-RANDOMIZER) |
+
 ---
 
 <div align="center">
@@ -345,8 +356,9 @@ We welcome community contributions:
 **Transform your content strategy with intelligent tag generation**
 
 *Created with ❤️ for the marketing community*
-
-
+<div align="right">
+<sub>DUBSTEP TAG RANDOMIZER v1.0.0 by constantchoice</sub>
+</div>
 </div>
 
 ---
@@ -690,6 +702,17 @@ python main.py
 - 🎨 Система шаблонов для ниш
 - 🔄 Пакетная обработка файлов
 
+## 📬 Контакты
+
+Этот продукт бесплатен и потому я хочу попросить вас хотя бы заглянуть на одну из
+предложенных ссылок и остаться, если вас это заинтересует:
+
+| Платформа | Ссылка |
+|:-----------|:-----------:|
+| Behance | [constantchoice](https://www.behance.net/GrinchFour) |
+| Instagram | [constantchoice](https://www.instagram.com/constantchoice) |
+| Поставить ⭐ | [DUBSTEP TAG RANDOMIZER](https://github.com/GrinchFour/DUBSTEP-TAG-RANDOMIZER) |
+
 ---
 
 <div align="center">
@@ -700,4 +723,9 @@ python main.py
 
 *Создано с ❤️ для сообщества маркетологов*
 
+</div>
+
+---
+<div align="right">
+<sub>DUBSTEP TAG RANDOMIZER v1.0.0 by constantchoice</sub>
 </div>
