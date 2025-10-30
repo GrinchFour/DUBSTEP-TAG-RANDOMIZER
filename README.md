@@ -8,7 +8,7 @@
 
 **Intelligent Tag Generation System for Content Marketing Excellence**
 
-[Features](#-features) • [Installation](#-installation) • [Documentation](#-usage-guide) • [Technical Excellence](#-technical-excellence)
+[Features](#-features) • [Installation](#-installation) • [Documentation](#-usage-guide) • [Professional Applications](#-professional-applications)
 
 **Languages: [RUS](#russian) / ENG**
 </div>
