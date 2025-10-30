@@ -10,7 +10,7 @@
 
 [Features](#-features) • [Installation](#-installation) • [Quick Start](#-quick-start) • [Documentation](#-documentation)
 
-**Languages: [RUS](#дабстеп-генератор-тегов) / ENG**
+**Languages: [RUS](#-дабстеп-генератор-тегов) / ENG**
 
 </div>
 
@@ -341,7 +341,7 @@ We welcome community contributions:
 
 [Возможности](#-возможности) • [Установка](#-установка) • [Быстрый старт](#-быстрый-старт) • [Документация](#-документация)
 
-**Языки: RUS / [ENG](#dubstep-tag-randomizer)**
+**Языки: RUS / [ENG](#-dubstep-tag-randomizer)**
 
 </div>
 
