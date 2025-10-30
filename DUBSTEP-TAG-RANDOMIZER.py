@@ -40,8 +40,14 @@ def load_tags_from_file(filename):
 def save_tags_to_file(tags, filename):
     """Сохраняет теги в файл через запятую"""
     try:
+        # Если tags уже строка, используем как есть, иначе объединяем
+        if isinstance(tags, str):
+            content = tags
+        else:
+            content = ', '.join(tags)
+        
         with open(filename, 'w', encoding='utf-8') as file:
-            file.write(', '.join(tags))
+            file.write(content)
         return True
     except Exception as e:
         print(f"❌ Ошибка при сохранении файла: {e}")
@@ -624,7 +630,7 @@ class TagGeneratorApp:
         result_tags = self.permanent_tags.copy()
         remaining_slots = total_tags_needed - len(result_tags)
         
-        # Добавление важных теги
+        # Добавление важных тегов
         if remaining_slots > 0 and important_count > 0:
             selected_important = random.sample(self.important_tags, important_count)
             result_tags.extend(selected_important)
@@ -641,7 +647,9 @@ class TagGeneratorApp:
         if len(result_tags) > total_tags_needed:
             result_tags = result_tags[:total_tags_needed]
         
-        return ', '.join(result_tags)
+        # Убираем лишние пробелы и возвращаем строку с тегами через запятую
+        cleaned_tags = [tag.strip() for tag in result_tags]
+        return ', '.join(cleaned_tags)
     
     def generate_tags(self):
         """Генерация тегов"""
@@ -725,7 +733,7 @@ class TagGeneratorApp:
                 tags_str = self.generate_single_tags()
                 
                 # Сохраняем в файл
-                if save_tags_to_file(tags_str.split(', '), 'result_tags.txt'):
+                if save_tags_to_file(tags_str, 'result_tags.txt'):
                     # Показываем результат
                     self.result_text.delete(1.0, tk.END)
                     self.result_text.insert(1.0, tags_str)
