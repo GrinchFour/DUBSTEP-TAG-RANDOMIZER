@@ -1,4 +1,4 @@
-# 🏷️ Dubstep Tag Randomizer <!-- #dubstep-tag-randomizer -->
+# 🏷️ Dubstep Tag Randomizer <a id="english"></a>
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 [Features](#-features) • [Installation](#-installation) • [Quick Start](#-usage-guide) • [Documentation](#-interface-overview)
 
-**Languages: [RUS](#дабстеп-генератор-тегов) / ENG**
+**Languages: [RUS](#russian) / ENG**
 </div>
 
 ## 🚀 Overview
@@ -328,7 +328,7 @@ We welcome community contributions:
 
 ---
 
-# 🏷️ Дабстеп Генератор Тегов <!-- #дабстеп-генератор-тегов -->
+# 🏷️ Дабстеп Генератор Тегов <a id="russian"></a>
 
 <div align="center">
 
@@ -340,7 +340,7 @@ We welcome community contributions:
 
 [Возможности](#-возможности) • [Установка](#-установка) • [Быстрый старт](#-руководство-по-использованию) • [Документация](#-обзор-интерфейса)
 
-**Языки: RUS / [ENG](#dubstep-tag-randomizer)**
+**Языки: RUS / [ENG](#english)**
 
 </div>
 
