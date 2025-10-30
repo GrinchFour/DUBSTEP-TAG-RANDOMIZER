@@ -99,8 +99,8 @@ pip install -r requirements.txt
 
 # 3. Configure tag files (see below)
 ```
-
-## 📁 Tag File Setup <a id="EasyInstallationEng"></a>
+<a id="EasyInstallationEng"></a>
+## 📁 Tag File Setup
 
 Create three text files in your project directory:
 
@@ -448,8 +448,8 @@ pip install -r requirements.txt
 
 # 3. Настройте файлы тегов (см. ниже)
 ```
-
-## 📁 Настройка файлов тегов <a id="EasyInstallationRus"></a>
+<a id="EasyInstallationRus"></a>
+## 📁 Настройка файлов тегов
 
 Создайте три текстовых файла в директории проекта:
 
