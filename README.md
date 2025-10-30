@@ -128,7 +128,7 @@ tag4
 ## 📁 Project Structure
 
 ```
-tag-randomizer/
+dubstep-tag-randomizer/
 ├── main.py                    # Main application
 ├── main_tags.txt             # Primary brand tags
 ├── additional_tags.txt       # Important category tags  
@@ -477,7 +477,7 @@ pip install -r requirements.txt
 ## 📁 Структура проекта
 
 ```
-tag-randomizer/
+dubstep-tag-randomizer/
 ├── main.py                    # Основное приложение
 ├── main_tags.txt             # Основные брендовые теги
 ├── additional_tags.txt       # Важные категорийные теги
