@@ -1,4 +1,4 @@
-# 🏷️ Dubstep Tag Randomizer <!-- {#dubstep-tag-randomizer} -->
+# 🏷️ Dubstep Tag Randomizer <!-- #dubstep-tag-randomizer -->
 
 <div align="center">
 
@@ -328,7 +328,7 @@ We welcome community contributions:
 
 ---
 
-# 🏷️ Дабстеп Генератор Тегов <!-- {#дабстеп-генератор-тегов} -->
+# 🏷️ Дабстеп Генератор Тегов <!-- #дабстеп-генератор-тегов -->
 
 <div align="center">
 
