@@ -75,8 +75,10 @@ Our solution provides:
 
 # 3. Run DUBSTEP-TAG-RANDOMIZER.exe
 
-# 4. For one-time generation, the result will be displayed in the appropriate field and saved to a file result_tags.txt
-To generate a table in Excel, its file will be created automatically in its absence, the result will be on a separate sheet :)
+# 4. For one-time generation, the result will be displayed in the appropriate field
+and saved to a file result_tags.txt
+To generate a table in Excel, its file will be created automatically in its absence,
+the result will be on a separate sheet :)
 ```
 
 If you are confused, see the section below ["Tag File Setup"](#EasyInstallationEng)
@@ -422,8 +424,10 @@ We welcome community contributions:
 
 # 3. Запустите DUBSTEP-TAG-RANDOMIZER.exe
 
-# 4. Для единоразовой генерации результат будет отображён в соответствующем поле, а также сохранён в файл result_tags.txt
-Для генерации в Excel таблицу её файл будет создан автоматически при её отсутствии, результат будет на отдельном листе :)
+# 4. Для единоразовой генерации результат будет отображён в соответствующем поле,
+а также сохранён в файл result_tags.txt
+Для генерации в Excel таблицу её файл будет создан автоматически при её отсутствии,
+результат будет на отдельном листе :)
 ```
 
 Если запутались, смотрите ниже параграф ["Настройка файлов тегов"](#EasyInstallationRus)
