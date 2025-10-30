@@ -8,7 +8,7 @@
 
 **Intelligent Tag Generation System for Content Marketing Excellence**
 
-[Features](#-features) • [Installation](#-installation) • [Quick Start](#-usage-guide) • [Documentation](#-interface-overview)
+[Features](#-features) • [Installation](#-installation) • [Documentation](#-usage-guide) • [Technical Excellence](#-technical-excellence)
 
 **Languages: [RUS](#russian) / ENG**
 </div>
@@ -64,12 +64,28 @@ Our solution provides:
 
 ## 🛠 Installation
 
-### Prerequisites
+### Easy Installation
+```
+# 1. Download the dist folder with all the contents
+
+# 2. Replace the tags with the ones you need in the following files:
+- main_tags.txt
+- additional_tags.txt
+- other_tags.txt
+
+# 3. Run DUBSTEP-TAG-RANDOMIZER.exe
+
+# 4. For one-time generation, the result will be displayed in the appropriate field and saved to a file result_tags.txt
+To generate a table in Excel, its file will be created automatically in its absence, the result will be on a separate sheet :)
+```
+
+If you are confused, see the section below ["Tag File Setup"](#EasyInstallationEng)
+
+### Complex Installation
+#### Prerequisites
 
 - **Python 3.8** or higher
 - **pip** package manager
-
-### Quick Setup
 
 ```bash
 # 1. Clone repository
@@ -82,7 +98,7 @@ pip install -r requirements.txt
 # 3. Configure tag files (see below)
 ```
 
-## 📁 Tag File Setup
+## 📁 Tag File Setup <a id="EasyInstallationEng"></a>
 
 Create three text files in your project directory:
 
@@ -338,7 +354,7 @@ We welcome community contributions:
 
 **Интеллектуальная система генерации тегов для контент-маркетинга**
 
-[Возможности](#-возможности) • [Установка](#-установка) • [Быстрый старт](#-руководство-по-использованию) • [Документация](#-обзор-интерфейса)
+[Возможности](#-возможности) • [Установка](#-установка) • [Документация](#-руководство-по-использованию) • [Профессиональное применение](#-профессиональное-применение)
 
 **Языки: RUS / [ENG](#english)**
 
@@ -395,12 +411,28 @@ We welcome community contributions:
 
 ## 🛠 Установка
 
-### Требования
+### Простая установка
+```
+# 1. Скачайте папку dist со всем содержимым
+
+# 2. Замените теги на нужные вам в следующих файлах:
+- main_tags.txt
+- additional_tags.txt
+- other_tags.txt
+
+# 3. Запустите DUBSTEP-TAG-RANDOMIZER.exe
+
+# 4. Для единоразовой генерации результат будет отображён в соответствующем поле, а также сохранён в файл result_tags.txt
+Для генерации в Excel таблицу её файл будет создан автоматически при её отсутствии, результат будет на отдельном листе :)
+```
+
+Если запутались, смотрите ниже параграф ["Настройка файлов тегов"](#EasyInstallationRus)
+
+### Сложная установка
+#### Требования
 
 - **Python 3.8** или выше
 - **pip** менеджер пакетов
-
-### Быстрая установка
 
 ```bash
 # 1. Клонируйте репозиторий
@@ -413,7 +445,7 @@ pip install -r requirements.txt
 # 3. Настройте файлы тегов (см. ниже)
 ```
 
-## 📁 Настройка файлов тегов
+## 📁 Настройка файлов тегов <a id="EasyInstallationRus"></a>
 
 Создайте три текстовых файла в директории проекта:
 
