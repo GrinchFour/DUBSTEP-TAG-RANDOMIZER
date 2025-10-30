@@ -129,12 +129,13 @@ tag4
 
 ```
 dubstep-tag-randomizer/
-├── main.py                    # Main application
-├── main_tags.txt             # Primary brand tags
-├── additional_tags.txt       # Important category tags  
-├── other_tags.txt           # Supplementary tags
-├── requirements.txt         # Python dependencies
-└── README.md               # This documentation
+├── dist                         # Quick start
+├── DUBSTEP-TAG-RANDOMIZER.py    # Main application
+├── main_tags.txt                # Primary brand tags
+├── additional_tags.txt          # Important category tags  
+├── other_tags.txt               # Supplementary tags
+├── result_tags.txt              # The result of the program execution
+└── README.md                    # This documentation
 ```
 
 ## 🎮 Usage Guide
@@ -478,12 +479,13 @@ pip install -r requirements.txt
 
 ```
 dubstep-tag-randomizer/
-├── main.py                    # Основное приложение
-├── main_tags.txt             # Основные брендовые теги
-├── additional_tags.txt       # Важные категорийные теги
-├── other_tags.txt           # Дополнительные теги
-├── requirements.txt         # Зависимости Python
-└── README.md               # Эта документация
+├── dist                         # Быстрый старт
+├── DUBSTEP-TAG-RANDOMIZER.py    # Основное приложение
+├── main_tags.txt                # Основные брендовые теги
+├── additional_tags.txt          # Важные категорийные теги
+├── other_tags.txt               # Дополнительные теги
+├── result_tags.txt              # Результат выполнения программы
+└── README.md                    # Эта документация
 ```
 
 ## 🎮 Руководство по использованию
