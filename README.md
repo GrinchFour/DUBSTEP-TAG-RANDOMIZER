@@ -15,7 +15,7 @@
 
 ## 🚀 Overview
 
-**Tag Randomizer** is an advanced desktop application designed for content creators and marketers who need to generate large volumes of unique, thematic tag combinations while maintaining brand consistency and content relevance.
+**Tag Randomizer** is an advanced desktop application designed for content creators and marketers who need to generate large volumes of unique, thematic tag combinations while maintaining brand consistency and content relevance
 
 ### 🎯 Core Problem Solved
 
@@ -346,7 +346,7 @@ We welcome community contributions:
 
 ## 🚀 Обзор
 
-**Генератор Тегов** — это продвинутое десктопное приложение для контент-менеджеров и маркетологов, которым необходимо генерировать большие объемы уникальных тематических комбинаций тегов с сохранением брендовой консистентности и релевантности контента.
+**Генератор Тегов** — это продвинутое десктопное приложение для контент-менеджеров и маркетологов, которым необходимо генерировать большие объемы уникальных тематических комбинаций тегов с сохранением брендовой консистентности и релевантности контента
 
 ### 🎯 Решаемая проблема
 
