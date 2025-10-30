@@ -324,7 +324,6 @@ We welcome community contributions:
 
 *Created with ❤️ for the marketing community*
 
-**Languages: RUS / [ENG](#-🏷️-Dubstep-tag-randomizer)**
 
 </div>
 
@@ -655,7 +654,5 @@ python main.py
 **Преобразуйте вашу контент-стратегию с интеллектуальной генерацией тегов**
 
 *Создано с ❤️ для сообщества маркетологов*
-
-**Языки: RUS / [ENG](#-🏷️-Dubstep-tag-randomizer)**
 
 </div>
