@@ -270,7 +270,7 @@ Configuration:
 |----------|----------|---------|
 | **Social Media Marketing** | Mass post preparation | Consistent branding across campaigns |
 | **E-commerce** | Product tagging | Optimized product discovery |
-| **Content Creation** | YouTube/Instagram hashtags | Improved content reach |
+| **Content Creation** | YouTube/Instagram/Pinterest hashtags | Improved content reach |
 | **Digital Agencies** | Client account management | Scalable service delivery |
 
 ### Advanced Strategies
@@ -636,7 +636,7 @@ python main.py
 |-----------|----------------------|--------------|
 | **Маркетинг в соцсетях** | Массовая подготовка постов | Консистентность бренда в кампаниях |
 | **Электронная коммерция** | Тегирование товаров | Оптимизированное обнаружение товаров |
-| **Создание контента** | Хэштеги YouTube/Instagram | Улучшенный охват контента |
+| **Создание контента** | Хэштеги YouTube/Instagram/Pinterest | Улучшенный охват контента |
 | **Цифровые агентства** | Управление клиентскими аккаунтами | Масштабируемая доставка услуг |
 
 ### Продвинутые стратегии
