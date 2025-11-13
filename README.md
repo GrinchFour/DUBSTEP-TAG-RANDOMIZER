@@ -66,7 +66,7 @@ Our solution provides:
 
 ### Easy Installation
 ```
-# 1. Download the dist folder with all the contents
+# 1. Download the Release or dist folder with all the contents
 
 # 2. Replace the tags with the ones you need in the following files:
 - main_tags.txt
@@ -432,7 +432,7 @@ the suggested links and stay if you are interested:
 
 ### Простая установка
 ```
-# 1. Скачайте папку dist со всем содержимым
+# 1. Скачайте Release или папку dist со всем содержимым
 
 # 2. Замените теги на нужные вам в следующих файлах:
 - main_tags.txt
